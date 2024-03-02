@@ -1,11 +1,11 @@
 # Couchbase-CRUD
 Todo App with Java, Spring Boot and Couchbase
 
-# APIs
-# Get All Todos
+## APIs
+### Get All Todos
 ![image](https://github.com/vinod-desai/Couchbase-CRUD/assets/41861786/de6a997c-307d-496d-8ed9-1f51af73639a)
 
-# Get Todo By Id
+### Get Todo By Id
 ![image](https://github.com/vinod-desai/Couchbase-CRUD/assets/41861786/fb237c07-46af-4471-9117-3955ae46b688)
 
 # Get Todos By Name
